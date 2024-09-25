@@ -1,0 +1,21 @@
+NO ./pics/redbrick.xpm
+SO ./pics/bluestone.xpm
+WE ./pics/greystone.xpm
+EA ./pics/purplestone.xpm
+
+F 20,20,20
+C 200,200,200
+
+111
+101
+101
+101
+101
+101
+101
+101
+101
+101
+101
+1S1
+111
